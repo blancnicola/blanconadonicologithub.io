@@ -1,0 +1,51 @@
+h1{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: red;
+    font-family:georgia, serif;
+}
+
+body {
+    background-image: url("images/888632.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    margin-left: 1%;
+  }
+
+#imageProfil{
+    text-align: center;
+    border-style: inset;
+    border-radius: 20px;
+    border-color: black;
+}
+
+#titre{
+    text-align: left;
+    color: red;
+    margin-left: 30px;
+    font-weight: bold;
+    
+
+}
+
+#academie{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+#perso{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: red;
+    padding: 10px;
+    font-family:georgia, serif;
+}
